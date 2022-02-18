@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Boluwatife, but you can call me Golden@Goldenremi
+- 👋 Hi, I’m Boluwatife, but you can call me Golden @Goldenremi
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on projects

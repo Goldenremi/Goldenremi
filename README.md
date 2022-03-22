@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Boluwatife, but you can call me Golden @Goldenremi
+- 👋 Hi, I’m Boluwatife Oderemi
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Node 
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me at oderemiboluwatife@gmail.com
 
